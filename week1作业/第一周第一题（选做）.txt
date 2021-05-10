@@ -1,3 +1,23 @@
+源代码：
+
+public class Hello {
+
+    public static void main(String[] args) {
+        int t = 0 ;
+        t = t + 4 ;
+        if(t > 3) System.out.println("t的值为 :" + t);
+
+        for(int j = 0;j<10;j++) {
+            System.out.println("begin xunhuan,the num is " + j);
+        }
+    }
+}
+
+
+
+
+
+
 Classfile /C:/Users/HP/Desktop/Hello.class                                                    //.class文件绝对路径
   Last modified 2021-5-10; size 887 bytes													  //编译时间以及文件大小
   MD5 checksum c4eff0e7c0a0a2cd69c3c45410d7a18f												  //MD5校验码
