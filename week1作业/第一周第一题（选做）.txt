@@ -3,9 +3,9 @@
 public class Hello {
 
     public static void main(String[] args) {
-        int t = 0 ;
-        t = t + 4 ;
-        if(t > 3) System.out.println("t的值为 :" + t);
+        int i = 0 ;
+        i = i + 4 ;
+        if(i > 3) System.out.println("i的值为 :" + i);
 
         for(int j = 0;j<10;j++) {
             System.out.println("begin xunhuan,the num is " + j);
